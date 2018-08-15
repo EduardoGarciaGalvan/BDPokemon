@@ -19,7 +19,7 @@ namespace Pokemon
             InitializeComponent();
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             ConnectionTemp.SelectQuery("INSERT INTO pokemones VALUES(NULL, '" + textBox1.Text + "',"
                 + numericUpDown1.Value + ", "
@@ -28,12 +28,13 @@ namespace Pokemon
                 + textBox3.Text + "', '"
                 + textBox4.Text + "', '"
                 + textBox5.Text + "', '"
-                + textBox5.Text + "', '"
                 + textBox6.Text + "', '"
-                + textBox7.Text + "', '");
+                + textBox7.Text + "', '"
+                + textBox8.Text + "') ");
             Form1 Tabla = new Form1();
             this.Hide();
             Tabla.Show();
+
         }
     }
 }
