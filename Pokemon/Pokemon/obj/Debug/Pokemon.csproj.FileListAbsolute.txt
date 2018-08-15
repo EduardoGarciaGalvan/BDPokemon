@@ -1,0 +1,16 @@
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\MySql.Data.dll
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\Google.Protobuf.dll
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\bin\Debug\MySql.Data.xml
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Entrenadores.resources
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Pokemones.resources
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.Tipos.resources
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Eduardo\source\repos\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
